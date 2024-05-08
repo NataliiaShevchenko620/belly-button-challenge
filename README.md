@@ -47,7 +47,7 @@ cd belly-button-challenge
 
 ## Usage
 
-This application is also deployed on GitHub Pages. You can access it [here](https://NataliiaShevchenko620.github.io).
+This application is also deployed on GitHub Pages. You can access it [here](https://nataliiashevchenko620.github.io/belly-button-challenge/).
 
 ## License
 
