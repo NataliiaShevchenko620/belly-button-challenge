@@ -1,0 +1,25 @@
+#sample-metadata {
+    border: 2px solid #1F77B4; /* blue border around the table */
+    padding: 10px;
+  }
+  
+#sample-metadata-header {
+    background-color: #1F77B4; /* blue background for the title */
+    color: white; /* white letters for the title */
+    font-weight: bold; /* bold font for the title */
+    padding: 5px;
+    margin-bottom: 0px; /* bottom margin for the title */
+  }
+  
+/* Styles for list elements inside #sample-metadata */
+#sample-metadata h6 {
+    padding: 5px; /* padding for each item */
+    margin: 0; /* removing default margins */
+    border-bottom: 1px solid #ddd; /* bottom border for each item */
+  }
+  
+/* Remove the bottom border for the last item in the list */
+#sample-metadata h6:last-child {
+    border-bottom: none;
+  }
+  
