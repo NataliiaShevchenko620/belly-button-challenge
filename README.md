@@ -10,9 +10,14 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Features
 - **Horizontal Bar Chart**: Displays the top 10 OTUs found in an individual, using `sample_values` for the chart values, `otu_ids` for the labels, and `otu_labels` for the hover text.
-- **Bubble Chart**: Visualizes each sample with `otu_ids` as the x-values, `sample_values` as both the y-values and marker sizes, and `otu_labels` for text values.
 - **Metadata Display**: Shows demographic information about the individuals from whom navel samples were taken, dynamically updating with each sample selected.
 - **Dropdown selector**: Allows to switch between individuals' results.
+
+![top](Images/top.png)
+
+- **Bubble Chart**: Visualizes each sample with `otu_ids` as the x-values, `sample_values` as both the y-values and marker sizes, and `otu_labels` for text values.
+
+![bottom](Images/bottom.png)
 
 ## Technologies Used
 - JavaScript
